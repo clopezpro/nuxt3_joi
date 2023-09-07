@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.41.0",
+    "@nuxt/devtools": "latest",
+    "@types/joi": "^17.2.3",
+    "eslint": "^8.48.0",
+    "joi": "^17.10.1",
+    "nuxt": "^3.7.1"
+  }
+}
